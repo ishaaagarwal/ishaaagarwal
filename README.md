@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Isha
+<h2>👋 Hi, I’m Isha</h2>
 
 <!---
 ishaaagarwal/ishaaagarwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
